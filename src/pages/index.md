@@ -1,21 +1,18 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
-image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+title: Dom Coder
+image: /img/reactrails.png
+heading: I should be a web developer by now
+subheading: Building apps with React and Ruby on Rails
 mainpitch:
-  title: Why Kaldi
+  title: Hi I'm Dom
   description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
-description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+    I got hooked on coding in January 2016 when I completed One Month Rails, I'd
+    like to say that I continued learning and got a job as a web developer.
+description: Trouble is I've been working in IT most of my career and was about
+  to start a job in London which would give me plenty of room to grow and make
+  an impact.  And I've been torn ever since.  I've seen lots of people who
+  started learning to code back then move on and become web developers.
 intro:
   blurbs:
     - image: /img/coffee.png
