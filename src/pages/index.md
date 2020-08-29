@@ -2,17 +2,17 @@
 templateKey: index-page
 title: Dom Coder
 image: /img/reactrails.png
-heading: I should be a web developer by now
+heading: ... Then I just went back to my IT job
 subheading: Building apps with React and Ruby on Rails
 mainpitch:
   title: Hi I'm Dom
   description: >
     I got hooked on coding in January 2016 when I completed One Month Rails, I'd
     like to say that I continued learning and got a job as a web developer.
-description: Trouble is I've been working in IT most of my career and was about
-  to start a job in London which would give me plenty of room to grow and make
-  an impact.  And I've been torn ever since.  I've seen lots of people who
-  started learning to code back then move on and become web developers.
+description: I kept working away whenever I got a chance until in 2020 I decided
+  to commit to a career in web development. With a potential move to Liverpool
+  planned in summer 2021, I decided to focus on JavaScript and React which would
+  allow me to work in the tech/startup scene there.
 intro:
   blurbs:
     - image: /img/coffee.png
